@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 import requests
 
-API_KEY = "4c3e9d45150059bf52a3ea96d2190ba05406a32cbe943056d261fdcc68f35f2f"  # Remplace par ta clé Together.ai
+API_KEY = "Api key"  # Remplace par ta clé Together.ai
 API_URL = "https://api.together.xyz/v1/chat/completions"
 
 headers = {
